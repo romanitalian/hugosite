@@ -1,0 +1,11 @@
+baseURL = "https://romanitalian.github.io/hugosite"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "code-editor"
+publishDir = "../"
+
+[params]
+    author = "John Doe"
+    locale = "en-US"
+    # rootlink = "/"
+    # rootli
